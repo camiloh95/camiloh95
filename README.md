@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Lean Tech IO
+- 🔭 I’m currently working on https://github.com/camiloh95/infraestructure-manager
 - 🌱 I’m currently learning AWS and all the DevOps matter.
 - 👯 I’m looking to collaborate on sustainabl energies
 - 🤔 I’m looking for help with AWS
