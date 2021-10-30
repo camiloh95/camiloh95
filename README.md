@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about Backend Development
 - 📫 How to reach me: camiloh_95@hotmail.com
-- 😄 Pronouns: Camo
+- 😄 Nickname: Camo
 - ⚡ Fun fact: I do enjoy playing Factorio :rocket: (like working while playing :laughing:)
